@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="alerts.less" server="beachmoviebistro.com/httpdocs/" local="131091028988121161" remote="131061543000000000" Dst="2" />
+<file name="badges.less" server="beachmoviebistro.com/httpdocs/" local="131091028988922487" remote="131061543000000000" Dst="2" />
+<file name="bootstrap.less" server="beachmoviebistro.com/httpdocs/" local="131091028988922487" remote="131061543000000000" Dst="2" />
+<file name="breadcrumbs.less" server="beachmoviebistro.com/httpdocs/" local="131091028990861086" remote="131061543000000000" Dst="2" />
+<file name="button-groups.less" server="beachmoviebistro.com/httpdocs/" local="131091028991771074" remote="131061543000000000" Dst="2" />
+<file name="buttons.less" server="beachmoviebistro.com/httpdocs/" local="131091028991771074" remote="131061543000000000" Dst="2" />
+<file name="carousel.less" server="beachmoviebistro.com/httpdocs/" local="131091028993932650" remote="131061543000000000" Dst="2" />
+<file name="close.less" server="beachmoviebistro.com/httpdocs/" local="131091028994779066" remote="131061543000000000" Dst="2" />
+<file name="code.less" server="beachmoviebistro.com/httpdocs/" local="131091028994779066" remote="131061543000000000" Dst="2" />
+<file name="component-animations.less" server="beachmoviebistro.com/httpdocs/" local="131091028996779723" remote="131061543000000000" Dst="2" />
+<file name="dropdowns.less" server="beachmoviebistro.com/httpdocs/" local="131091028997308880" remote="131061543000000000" Dst="2" />
+<file name="forms.less" server="beachmoviebistro.com/httpdocs/" local="131091028997777667" remote="131061543000000000" Dst="2" />
+<file name="grid.less" server="beachmoviebistro.com/httpdocs/" local="131091029000116836" remote="131061543000000000" Dst="2" />
+<file name="glyphicons.less" server="beachmoviebistro.com/httpdocs/" local="131091029000481110" remote="131061543000000000" Dst="2" />
+<file name="input-groups.less" server="beachmoviebistro.com/httpdocs/" local="131091029000861124" remote="131061543000000000" Dst="2" />
+<file name="jumbotron.less" server="beachmoviebistro.com/httpdocs/" local="131091029002946414" remote="131061543000000000" Dst="2" />
+<file name="labels.less" server="beachmoviebistro.com/httpdocs/" local="131091029003792834" remote="131061543000000000" Dst="2" />
+<file name="list-group.less" server="beachmoviebistro.com/httpdocs/" local="131091029003792834" remote="131061543000000000" Dst="2" />
+<file name="media.less" server="beachmoviebistro.com/httpdocs/" local="131091029006643414" remote="131061543000000000" Dst="2" />
+<file name="mixins.less" server="beachmoviebistro.com/httpdocs/" local="131091029045239356" remote="131061543000000000" Dst="2" />
+<file name="modals.less" server="beachmoviebistro.com/httpdocs/" local="131091029046020664" remote="131061543000000000" Dst="2" />
+<file name="navbar.less" server="beachmoviebistro.com/httpdocs/" local="131091029046020664" remote="131061543000000000" Dst="2" />
+<file name="navs.less" server="beachmoviebistro.com/httpdocs/" local="131091029048025816" remote="131061543000000000" Dst="2" />
+<file name="normalize.less" server="beachmoviebistro.com/httpdocs/" local="131091029048827958" remote="131061543000000000" Dst="2" />
+<file name="pager.less" server="beachmoviebistro.com/httpdocs/" local="131091029048827958" remote="131061543000000000" Dst="2" />
+<file name="pagination.less" server="beachmoviebistro.com/httpdocs/" local="131091029051558864" remote="131061543000000000" Dst="2" />
+<file name="panels.less" server="beachmoviebistro.com/httpdocs/" local="131091029051558864" remote="131061543000000000" Dst="2" />
+<file name="popovers.less" server="beachmoviebistro.com/httpdocs/" local="131091029052027630" remote="131061543000000000" Dst="2" />
+<file name="print.less" server="beachmoviebistro.com/httpdocs/" local="131091029054030044" remote="131061543000000000" Dst="2" />
+<file name="progress-bars.less" server="beachmoviebistro.com/httpdocs/" local="131091029054874236" remote="131061543000000000" Dst="2" />
+<file name="responsive-embed.less" server="beachmoviebistro.com/httpdocs/" local="131091029054874236" remote="131061543000000000" Dst="2" />
+<file name="responsive-utilities.less" server="beachmoviebistro.com/httpdocs/" local="131091029056869843" remote="131061543000000000" Dst="2" />
+<file name="scaffolding.less" server="beachmoviebistro.com/httpdocs/" local="131091029057721638" remote="131061543000000000" Dst="2" />
+<file name="tables.less" server="beachmoviebistro.com/httpdocs/" local="131091029057721638" remote="131061543000000000" Dst="2" />
+<file name="theme.less" server="beachmoviebistro.com/httpdocs/" local="131091029059763348" remote="131061543000000000" Dst="2" />
+<file name="thumbnails.less" server="beachmoviebistro.com/httpdocs/" local="131091029060574963" remote="131061543000000000" Dst="2" />
+<file name="tooltip.less" server="beachmoviebistro.com/httpdocs/" local="131091029060574963" remote="131061543000000000" Dst="2" />
+<file name="type.less" server="beachmoviebistro.com/httpdocs/" local="131091029062882431" remote="131061543000000000" Dst="2" />
+<file name="utilities.less" server="beachmoviebistro.com/httpdocs/" local="131091029063250498" remote="131061543000000000" Dst="2" />
+<file name="variables.less" server="beachmoviebistro.com/httpdocs/" local="131091029063720436" remote="131061543000000000" Dst="2" />
+<file name="wells.less" server="beachmoviebistro.com/httpdocs/" local="131091029066035272" remote="131061543000000000" Dst="2" />
+</dwsync>
